@@ -1,0 +1,26 @@
+* {
+   
+  font-family: 'Roboto',sans-serif;}
+
+
+
+.headingclass{
+    background-image:url("pizza3.png") ;
+    height: 80px;
+    box-shadow: 0 8px 6px -6px black;
+    width: 100%;
+   
+}
+li a{
+
+	text-decoration: none;
+	color: #de232a;
+	font-weight: bold;
+	padding: 20px 30px;
+	float: right;
+	font-size:1.5vw;
+	line-height: 20px;	
+}
+ul{
+    float: right;
+}
